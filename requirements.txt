@@ -2,3 +2,5 @@ Flask
 gunicorn
 SQLAlchemy
 pyodbc
+azure-storage-blob
+azure-identity
